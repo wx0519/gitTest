@@ -10,6 +10,8 @@ public class GitTest {
         System.out.println("first project");
 
         System.out.println("second project");
+
+        System.out.println("third project");
     }
 
 }
