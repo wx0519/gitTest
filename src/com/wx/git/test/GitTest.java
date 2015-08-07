@@ -12,6 +12,8 @@ public class GitTest {
         System.out.println("second project");
 
         System.out.println("third project");
+
+        System.out.println("fourth project on dev2");
     }
 
 }
